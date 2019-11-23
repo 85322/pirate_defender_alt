@@ -1,0 +1,19 @@
+#buildings {background-color: black;}
+
+body {
+	background-color: black;
+	color: lime;
+	margin: 0px;
+}
+
+#resources {
+ 	border: 1px;
+	border-color:lime;
+ }
+
+ table {
+ 	border-color: lime;
+ 	}
+
+ tr {border-color: lime;}
+
