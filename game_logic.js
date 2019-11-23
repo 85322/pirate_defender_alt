@@ -13,6 +13,7 @@ document.getElementById("woodCutter_icon").onclick=function (){
 }
 
 
+
 function upgradeStone(){
 	stoneBuildingLevel += 1;
 	var result = stoneBuildingLevel + 1;
